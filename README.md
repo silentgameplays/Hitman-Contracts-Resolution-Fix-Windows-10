@@ -1,6 +1,8 @@
 # Hitman-Contracts-Windows-10-FHD-Fix
 Hitman: Contracts Windows 10 FHD Fix
 
+0.For Steam versions only:
+Go into C:\Program Files (x86)\Steam find a file Steam.dll and Copy/Paste it into your Hitman:Contracts directory 
 
 1.Go to Hitman Contracts installation Directory 
 
