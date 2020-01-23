@@ -6,7 +6,8 @@ Go into C:\Program Files (x86)\Steam find a file Steam.dll and Copy/Paste it int
 
 1.Go to Hitman Contracts installation Directory 
 
-2.Use the following lines in HitmanContracts.ini file or just download and copy paste the file from the repository:
+2.Use the following lines in HitmanContracts.ini file or just download and copy and paste
+HitmanContracts.ini file from the repository:
 
 * DefaultScene=AllLevels\Logos.gms
 * SoundDll SoundEngine.dll
